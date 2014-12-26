@@ -1,0 +1,1 @@
+﻿Update tCustomerQue set Staus = 0 where Serial = 1
